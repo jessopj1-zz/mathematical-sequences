@@ -4,7 +4,7 @@ print("This is John's cube number generator.")
 print("The first is ", value)
 value = int(value) + int(value2)
 iterations = input("How many cube numbers would you like to generate? I suggest at least 10: ")
-print("You chose to get the fisrt ", iterations, " Fibonacci numbers" )
+print("You chose to get the fisrt ", iterations, " cube numbers" )
 
 while (order < int(iterations)):
     order = int(order) + 1
